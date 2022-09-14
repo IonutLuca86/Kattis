@@ -1,0 +1,15 @@
+D:\C# - egna projekt\Jumbo Javelin\bin\Debug\net6.0\Jumbo Javelin.exe
+D:\C# - egna projekt\Jumbo Javelin\bin\Debug\net6.0\Jumbo Javelin.deps.json
+D:\C# - egna projekt\Jumbo Javelin\bin\Debug\net6.0\Jumbo Javelin.runtimeconfig.json
+D:\C# - egna projekt\Jumbo Javelin\bin\Debug\net6.0\Jumbo Javelin.dll
+D:\C# - egna projekt\Jumbo Javelin\bin\Debug\net6.0\Jumbo Javelin.pdb
+D:\C# - egna projekt\Jumbo Javelin\obj\Debug\net6.0\Jumbo Javelin.csproj.AssemblyReference.cache
+D:\C# - egna projekt\Jumbo Javelin\obj\Debug\net6.0\Jumbo Javelin.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - egna projekt\Jumbo Javelin\obj\Debug\net6.0\Jumbo Javelin.AssemblyInfoInputs.cache
+D:\C# - egna projekt\Jumbo Javelin\obj\Debug\net6.0\Jumbo Javelin.AssemblyInfo.cs
+D:\C# - egna projekt\Jumbo Javelin\obj\Debug\net6.0\Jumbo Javelin.csproj.CoreCompileInputs.cache
+D:\C# - egna projekt\Jumbo Javelin\obj\Debug\net6.0\Jumbo Javelin.dll
+D:\C# - egna projekt\Jumbo Javelin\obj\Debug\net6.0\refint\Jumbo Javelin.dll
+D:\C# - egna projekt\Jumbo Javelin\obj\Debug\net6.0\Jumbo Javelin.pdb
+D:\C# - egna projekt\Jumbo Javelin\obj\Debug\net6.0\Jumbo Javelin.genruntimeconfig.cache
+D:\C# - egna projekt\Jumbo Javelin\obj\Debug\net6.0\ref\Jumbo Javelin.dll
