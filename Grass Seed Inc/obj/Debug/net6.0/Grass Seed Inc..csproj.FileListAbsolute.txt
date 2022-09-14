@@ -1,0 +1,15 @@
+D:\C# - egna projekt\Grass Seed Inc\bin\Debug\net6.0\Grass Seed Inc..exe
+D:\C# - egna projekt\Grass Seed Inc\bin\Debug\net6.0\Grass Seed Inc..deps.json
+D:\C# - egna projekt\Grass Seed Inc\bin\Debug\net6.0\Grass Seed Inc..runtimeconfig.json
+D:\C# - egna projekt\Grass Seed Inc\bin\Debug\net6.0\Grass Seed Inc..dll
+D:\C# - egna projekt\Grass Seed Inc\bin\Debug\net6.0\Grass Seed Inc..pdb
+D:\C# - egna projekt\Grass Seed Inc\obj\Debug\net6.0\Grass Seed Inc..csproj.AssemblyReference.cache
+D:\C# - egna projekt\Grass Seed Inc\obj\Debug\net6.0\Grass Seed Inc..GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - egna projekt\Grass Seed Inc\obj\Debug\net6.0\Grass Seed Inc..AssemblyInfoInputs.cache
+D:\C# - egna projekt\Grass Seed Inc\obj\Debug\net6.0\Grass Seed Inc..AssemblyInfo.cs
+D:\C# - egna projekt\Grass Seed Inc\obj\Debug\net6.0\Grass Seed Inc..csproj.CoreCompileInputs.cache
+D:\C# - egna projekt\Grass Seed Inc\obj\Debug\net6.0\Grass Seed Inc..dll
+D:\C# - egna projekt\Grass Seed Inc\obj\Debug\net6.0\refint\Grass Seed Inc..dll
+D:\C# - egna projekt\Grass Seed Inc\obj\Debug\net6.0\Grass Seed Inc..pdb
+D:\C# - egna projekt\Grass Seed Inc\obj\Debug\net6.0\Grass Seed Inc..genruntimeconfig.cache
+D:\C# - egna projekt\Grass Seed Inc\obj\Debug\net6.0\ref\Grass Seed Inc..dll
