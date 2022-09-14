@@ -1,0 +1,15 @@
+D:\C# - egna projekt\Piece of Cake!\bin\Debug\net6.0\Piece of Cake!.exe
+D:\C# - egna projekt\Piece of Cake!\bin\Debug\net6.0\Piece of Cake!.deps.json
+D:\C# - egna projekt\Piece of Cake!\bin\Debug\net6.0\Piece of Cake!.runtimeconfig.json
+D:\C# - egna projekt\Piece of Cake!\bin\Debug\net6.0\Piece of Cake!.dll
+D:\C# - egna projekt\Piece of Cake!\bin\Debug\net6.0\Piece of Cake!.pdb
+D:\C# - egna projekt\Piece of Cake!\obj\Debug\net6.0\Piece of Cake!.csproj.AssemblyReference.cache
+D:\C# - egna projekt\Piece of Cake!\obj\Debug\net6.0\Piece of Cake!.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - egna projekt\Piece of Cake!\obj\Debug\net6.0\Piece of Cake!.AssemblyInfoInputs.cache
+D:\C# - egna projekt\Piece of Cake!\obj\Debug\net6.0\Piece of Cake!.AssemblyInfo.cs
+D:\C# - egna projekt\Piece of Cake!\obj\Debug\net6.0\Piece of Cake!.csproj.CoreCompileInputs.cache
+D:\C# - egna projekt\Piece of Cake!\obj\Debug\net6.0\Piece of Cake!.dll
+D:\C# - egna projekt\Piece of Cake!\obj\Debug\net6.0\refint\Piece of Cake!.dll
+D:\C# - egna projekt\Piece of Cake!\obj\Debug\net6.0\Piece of Cake!.pdb
+D:\C# - egna projekt\Piece of Cake!\obj\Debug\net6.0\Piece of Cake!.genruntimeconfig.cache
+D:\C# - egna projekt\Piece of Cake!\obj\Debug\net6.0\ref\Piece of Cake!.dll
